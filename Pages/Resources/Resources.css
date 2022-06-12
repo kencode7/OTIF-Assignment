@@ -60,6 +60,7 @@
     line-height: 49px;
     color: #4C38EE;
     margin-bottom: 5rem;
+    padding-right: 5rem;
 }
 .headerText p {
     font-family: 'Product Sans';
@@ -68,7 +69,7 @@
     font-size: 18px;
     line-height: 22px;
     color: #121212;
-    padding-right: 7rem;
+    padding-right: 10rem;
 }
 .columnImage {
     padding: 50px 0 0 0;
